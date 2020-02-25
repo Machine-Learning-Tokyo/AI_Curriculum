@@ -13,10 +13,18 @@ Source: MIT
 ## CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
 [Lecture Series](http://cs231n.stanford.edu)
 
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
+
+Source: Stanford
+
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/stanford.png" width="600"></p>](http://cs231n.stanford.edu)
 
 ## CS224n: NLP with Deep Learning, Stanford | Winter 2019
 [Lecture Series](http://web.stanford.edu/class/cs224n/index.html#schedule)
+
+Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+
+Source: Stanford
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
