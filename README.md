@@ -1,5 +1,5 @@
 # AI Curriculum
-Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berekeley.
+Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.
 
 ## MIT 6.S191: Introduction to Deep Learning | 2020
 [Lecture Series](http://introtodeeplearning.com/)
