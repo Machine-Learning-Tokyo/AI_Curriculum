@@ -3,7 +3,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 
 <!-- toc -->
 
-**[Contents](#contents)**
+## Contents
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
 - [NLP with Deep Learning](#nlp-with-deep-learning)
