@@ -5,11 +5,16 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 
 ## Contents
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
+  - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
+  - CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
 - [NLP with Deep Learning](#nlp-with-deep-learning)
+  - CS224n: NLP with Deep Learning, Stanford | Winter 2019
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
+  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
+- [Unsupervised Learning](#unsupervised-learning)
 - [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
-
+  - Stanford CS330: Multi-Task and Meta-Learning | 2019
 
 # Introduction to Deep Learning
 
@@ -50,6 +55,16 @@ Source: Stanford
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+# Unsupervised Learning
+
+### CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+
+- Source: [UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep_unsupervised.png" width="600"></p>](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
 
 # Multi-Task and Meta Learning
 
