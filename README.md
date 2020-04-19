@@ -62,6 +62,8 @@ Source: Stanford
 ### CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
+This course covers two areas of deep learning in which labeled data is not required: Deep Generative Models and Self-supervised Learning. Recent advances in generative models have made it possible to realistically model high-dimensional raw data such as natural images, audio waveforms and text corpora. Strides in self-supervised learning have started to close the gap between supervised representation learning and unsupervised representation learning in terms of fine-tuning to unseen tasks. This course will cover the theoretical foundations of these topics as well as their newly enabled applications.
+
 - Source: [UC Berkeley](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep_unsupervised.png" width="600"></p>](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
