@@ -15,7 +15,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [Unsupervised Learning](#unsupervised-learning)
   - CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
 - [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
-  - Stanford CS330: Multi-Task and Meta-Learning | 2019
+  - Stanford CS330: Multi-Task and Meta Learning | 2019
 
 # Introduction to Deep Learning
 
@@ -71,7 +71,7 @@ This course covers two areas of deep learning in which labeled data is not requi
 
 # Multi-Task and Meta Learning
 
-### Stanford CS330: Multi-Task and Meta-Learning | 2019
+### Stanford CS330: Multi-Task and Meta Learning | 2019
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
 While deep learning has achieved remarkable success in supervised and reinforcement learning problems, such as image classification, speech recognition, and game playing, these models are, to a large degree, specialized for the single task they are trained for. This course will cover the setting where there are multiple tasks to be solved, and study how the structure arising from multiple tasks can be leveraged to learn more efficiently or effectively. This includes:
