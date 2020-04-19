@@ -8,8 +8,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
 - [NLP with Deep Learning](#nlp-with-deep-learning)
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
-
-
+- [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
 
 
 # Introduction to Deep Learning
@@ -51,3 +50,18 @@ Source: Stanford
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+# Multi-Task and Meta Learning
+
+### Stanford CS330: Multi-Task and Meta-Learning | 2019
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+
+While deep learning has achieved remarkable success in supervised and reinforcement learning problems, such as image classification, speech recognition, and game playing, these models are, to a large degree, specialized for the single task they are trained for. This course will cover the setting where there are multiple tasks to be solved, and study how the structure arising from multiple tasks can be leveraged to learn more efficiently or effectively. This includes:
+
+- goal-conditioned reinforcement learning techniques that leverage the structure of the provided goal space to learn many tasks significantly faster
+- meta-learning methods that aim to learn efficient learning algorithms that can learn new tasks quickly
+- curriculum and lifelong learning, where the problem requires learning a sequence of tasks, leveraging their shared structure to enable knowledge transfer
+
+Source: [Stanford University CS330](http://cs330.stanford.edu/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/meta_learning.png" width="600"></p>](http://cs330.stanford.edu/)
