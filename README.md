@@ -11,6 +11,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [NLP with Deep Learning](#nlp-with-deep-learning)
   - CS224n: NLP with Deep Learning, Stanford | Winter 2019
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
+  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 - [Unsupervised Learning](#unsupervised-learning)
   - CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
@@ -51,6 +52,9 @@ Source: Stanford
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
 # Deep Reinforcement Learning
+
+### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 ### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 [Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
