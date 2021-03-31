@@ -4,32 +4,47 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 <!-- toc -->
 
 ## Contents
-- [Deep Learning (with Pytorch)](#deep-learning)
-  - DS-GA 1008: Deep Learning | SPRING 2020
+
+# Machine Learning
+- [Applied Machine Learning](#applied-machine-learning)
+  - Cornell CS5785: Applied Machine Learning | Fall 2020
+# Deep Learning
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
   - CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
 - [NLP with Deep Learning](#nlp-with-deep-learning)
   - CS224n: NLP with Deep Learning, Stanford | Winter 2019
-- [Deep Reinforcement Learning](#deep-reinforcement-learning)
-  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
-  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 - [Unsupervised Learning](#unsupervised-learning)
   - CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
 - [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
   - Stanford CS330: Multi-Task and Meta Learning | 2019
+- [Deep Learning (with Pytorch)](#deep-learning)
+  - DS-GA 1008: Deep Learning | SPRING 2020
+# Reinforcement Learning
+- [Deep Reinforcement Learning](#deep-reinforcement-learning)
+  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
+  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
+
+
+
+# Machine Learning
+
+# Applied Machine Learning
+
+### Cornell CS5785: Applied Machine Learning | Fall 2020
+
+Lecture videos and resources from the Applied Machine Learning course at Cornell Tech, taught in Fall 2020. The lectures are covering ML from the very basics, including the important ML algorithms and how to apply them in practice. All materials are executable, the slides are Jupyter notebooks with programmatically generated figures. Readers can tweak parameters and regenerate the figures themselves.
+
+- [Lecture series, Youtube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+- [GitHub notebooks](https://github.com/kuleshov/cornell-cs5785-applied-ml)
+
+Source: Cornell
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/cornell_applied_ml" width="600"></p>](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
 
 # Deep Learning
-
-### DS-GA 1008: Deep Learning | SPRING 2020
-[Lecture Series](https://atcold.github.io/pytorch-Deep-Learning/)
-
-This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The lectures are taught by Yann LeCun and the entire lecture series is also available as a YouTube Playlist officially provided by them at [https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq).
-
-Source: NYU Center for Data Science
-
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep-learning.png" width="600"></p>](http://introtodeeplearning.com/)
 
 # Introduction to Deep Learning
 
@@ -64,16 +79,6 @@ Source: Stanford
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nlp_stanford.png" width="600"></p>](http://web.stanford.edu/class/cs224n/index.html#schedule)
 
-# Deep Reinforcement Learning
-
-### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
-[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-
-### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
-[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-
 # Unsupervised Learning
 
 ### CS294-158-SP20: Deep Unsupervised Learning, UC Berkeley | Spring 2020
@@ -100,3 +105,23 @@ While deep learning has achieved remarkable success in supervised and reinforcem
 Source: [Stanford University CS330](http://cs330.stanford.edu/)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/meta_learning.png" width="600"></p>](http://cs330.stanford.edu/)
+
+### DS-GA 1008: Deep Learning | SPRING 2020
+[Lecture Series](https://atcold.github.io/pytorch-Deep-Learning/)
+
+This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. The lectures are taught by Yann LeCun and the entire lecture series is also available as a YouTube Playlist officially provided by them at [https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq).
+
+Source: NYU Center for Data Science
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep-learning.png" width="600"></p>](http://introtodeeplearning.com/)
+
+# Deep Reinforcement Learning
+
+### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+
