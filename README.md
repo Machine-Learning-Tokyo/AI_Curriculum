@@ -18,7 +18,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [Multi-Task and Meta Learning](#multi-task-and-meta-learning)
   - Stanford CS330: Multi-Task and Meta Learning | 2019
 - [Deep Learning (with Pytorch)](#deep-learning)
-  - DS-GA 1008: Deep Learning | SPRING 2020
+  - DS-GA 1008: Deep Learning | Spring 2020
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
