@@ -110,7 +110,7 @@ This course concerns the latest techniques in deep learning and representation l
 
 Source: NYU Center for Data Science
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep-learning.png" width="600"></p>](http://introtodeeplearning.com/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/nyu.png" width="800"></p>](https://atcold.github.io/pytorch-Deep-Learning/)
 
 # Deep Reinforcement Learning
 
