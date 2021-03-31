@@ -8,6 +8,7 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 - [Applied Machine Learning](#applied-machine-learning)
   - Cornell CS5785: Applied Machine Learning | Fall 2020
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
+  - UC Berkeley CS 182: Deep Learning | Spring 2021
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
   - CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
@@ -21,13 +22,12 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - DS-GA 1008: Deep Learning | Spring 2020
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
-  - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
 
 
 
 # Machine Learning
 
-# Applied Machine Learning
+## Applied Machine Learning
 
 ### Cornell CS5785: Applied Machine Learning | Fall 2020
 
@@ -43,7 +43,17 @@ Source: Cornell
 
 # Deep Learning
 
-# Introduction to Deep Learning
+## Introduction to Deep Learning
+
+### UC Berkeley CS 182: Deep Learning | Spring 2021
+
+- [Website](https://cs182sp21.github.io/)
+- [Lecture series](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
+Source: Berkeley
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/deep_learning_berkeley.png" width="800"></p>](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+
 
 ### MIT 6.S191: Introduction to Deep Learning | 2020
 [Lecture Series](http://introtodeeplearning.com/)
@@ -115,10 +125,7 @@ Source: NYU Center for Data Science
 # Deep Reinforcement Learning
 
 ### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
-[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
-### CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
-[Lecture Series, YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/berkeley.png" width="600"></p>](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/levine.png" width="800"></p>](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
