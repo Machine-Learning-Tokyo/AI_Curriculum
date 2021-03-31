@@ -5,10 +5,8 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
 
 ## Contents
 
-# Machine Learning
 - [Applied Machine Learning](#applied-machine-learning)
   - Cornell CS5785: Applied Machine Learning | Fall 2020
-# Deep Learning
 - [Introduction to Deep Learning](#introduction-to-deep-learning)
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
@@ -21,7 +19,6 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - Stanford CS330: Multi-Task and Meta Learning | 2019
 - [Deep Learning (with Pytorch)](#deep-learning)
   - DS-GA 1008: Deep Learning | SPRING 2020
-# Reinforcement Learning
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2020
   - CS285: Deep Reinforcement Learning, UC Berkeley | Fall 2019
@@ -41,7 +38,7 @@ Lecture videos and resources from the Applied Machine Learning course at Cornell
 
 Source: Cornell
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/cornell_applied_ml" width="600"></p>](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/cornell_applied_ml.png" width="800"></p>](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 
 
 # Deep Learning
