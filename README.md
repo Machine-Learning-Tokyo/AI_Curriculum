@@ -12,6 +12,8 @@ Open Deep Learning and Reinforcement Learning lectures from top Universities lik
   - MIT 6.S191: Introduction to Deep Learning | 2020
 - [CNNs for Visual Recognition](#cnns-for-visual-recognition)
   - CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
+- [Deep Learning for Computer Vision](#deep-learning-for-computer-vision)
+  - EECS 498-007 / 598-005: Deep Learning for Computer Vision, University of Michigan | Fall 2020
 - [NLP with Deep Learning](#nlp-with-deep-learning)
   - CS224n: NLP with Deep Learning, Stanford | Winter 2019
 - [Unsupervised Learning](#unsupervised-learning)
@@ -64,7 +66,7 @@ Source: MIT
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/mit.gif" width="600"></p>](http://introtodeeplearning.com/)
 
-# CNNs for Visual Recognition
+# Computer Vision
 
 ### CS231n: CNNs for Visual Recognition, Stanford | Spring 2019
 [Lecture Series](http://cs231n.stanford.edu)
@@ -74,6 +76,16 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 Source: Stanford
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/stanford.png" width="600"></p>](http://cs231n.stanford.edu)
+
+### EECS 498-007 / 598-005: Deep Learning for Computer Vision, University of Michigan | Fall 2020
+- [Website](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
+- [Lecture Series](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification and object detection. Recent developments in neural network approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of neural-network based deep learning methods for computer vision. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. We will cover learning algorithms, neural network architectures, and practical engineering tricks for training and fine-tuning networks for visual recognition tasks.
+
+Source: University of Michigan
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI_Curriculum/blob/master/images/umich.png" width="600"></p>](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)
 
 # NLP with Deep Learning
 
